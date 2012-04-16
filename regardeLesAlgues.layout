@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
+<<<<<<< HEAD
 	<File name="src/testApp.h" open="1" top="1" tabpos="0">
 		<Cursor position="14" topLine="0" />
 	</File>
+=======
+>>>>>>> bd4638d6d12ee9afa4be48f9974c498934b221f4
 </CodeBlocks_layout_file>

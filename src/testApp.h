@@ -1,7 +1,10 @@
 #pragma once
 
 #include "ofMain.h"
+<<<<<<< HEAD
 #include "ofxOpenCv.h"
+=======
+>>>>>>> bd4638d6d12ee9afa4be48f9974c498934b221f4
 
 class testApp : public ofBaseApp{
 
@@ -20,7 +23,10 @@ class testApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
 		
+<<<<<<< HEAD
 
 		ofVideoGrabber vidGrabber;
 		ofxCvColorImage colorImg;
+=======
+>>>>>>> bd4638d6d12ee9afa4be48f9974c498934b221f4
 };
